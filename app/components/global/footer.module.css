@@ -1,0 +1,34 @@
+.footer_content {
+  position: relative;
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  column-gap: 2rem;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.footer_card {
+}
+
+.footer_card h2 {
+  font-family: var(--font-heading);
+  font-weight: 500;
+  margin-bottom: 1rem;
+}
+
+.footer_card p {
+  font-family: var(--font-body);
+}
+
+.logo {
+  position: relative;
+  z-index: 100;
+  width: 168px;
+}
+
+.svg {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
