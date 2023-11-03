@@ -1,10 +1,11 @@
 import Image from "next/image";
 import styles from "./page.module.css";
+import FetchData from "./components/global/FetchData";
 
 export default function Home() {
   return (
     <main className={styles.main}>
-      <div className="w-8 shrink-0 lg:w-[42px]">
+      <div>
         <svg width="100%" height="100%" viewBox="0 0 43 46" fill="none" xmlns="http://www.w3.org/2000/svg">
           <g clipPath="url(#clip0_648_20210)">
             <path
@@ -22,6 +23,7 @@ export default function Home() {
           </defs>
         </svg>
       </div>
+      <FetchData />
     </main>
   );
 }
