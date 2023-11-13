@@ -39,11 +39,11 @@ The design file can be viewed here: https://www.figma.com/file/qM1evJc5mx2Pw6J6g
 
 ### Data Fetching
 
-This project includes a json file in the `_data` folder. To use it install [`json-server`](https://www.npmjs.com/package/json-server) and run `json-server --watch --port 4000 ./_data/db.json`.
+This project includes a json file in the `_data` folder. To use it install [`json-server`](https://www.npmjs.com/package/json-server) and run `json-server --watch --port 4000 ./_data/db.json`. There is a `FetchData` component already built that has some basic functionality.
 
 ### Rules
 
-Use any resources at your disposal aside from AI tools. Google, Stackoverflow, and other web resources are all at your disposal. You can reach out to the interviewers with questions as well.
+Use any resources at your disposal aside from AI tools. Google, Stackoverflow, and other web resources are all fair game. You can reach out to the interviewers with questions as well.
 
 ### Learn More about Next.js
 
