@@ -29,7 +29,7 @@ Your goal is to build a website component in Next.js using a combination of Java
 
 _Some baseline styles and brand colors have been provided as well as an SVG image from the design._
 
-![alt text](https://github.com/pelago-marketing/fe-dev-task/blob/9d8daf5a6f5ff86f88c69ac3f2712bbaf1d06576/public/img-faq-design.png)
+![alt text](https://github.com/pelago-marketing/fe-dev-task/blob/6d599735185b34732a2dbd0554f89bd5cc412c45/public/img-faq-design.png)
 
 ### The Design
 
