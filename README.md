@@ -35,11 +35,15 @@ _Some baseline styles and brand colors have been provided as well as an SVG imag
 
 The design file can be viewed here: https://www.figma.com/file/qM1evJc5mx2Pw6J6gkNnTk/Dev-Task-Design?type=design&node-id=1%3A7&mode=design&t=FDPoBROl4DgY9O8c-1
 
-_🤫 Hint: Use Figma dev mode to get specifics on styles and colors_
+🤫 _Hint: Use Figma dev mode to get specifics on styles and colors_
 
 ### Data Fetching
 
 This project includes a json file in the `_data` folder. To use it install [`json-server`](https://www.npmjs.com/package/json-server) and run `json-server --watch --port 4000 ./_data/db.json`.
+
+### Rules
+
+Use any resources at your disposal aside from AI tools. Google, Stackoverflow, and other web resources are all at your disposal. You can reach out to the interviewers with questions as well.
 
 ### Learn More about Next.js
 
