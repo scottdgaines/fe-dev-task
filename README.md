@@ -35,7 +35,7 @@ _Some baseline styles and brand colors have been provided as well as an SVG imag
 
 The design file can be viewed here: https://www.figma.com/file/qM1evJc5mx2Pw6J6gkNnTk/Dev-Task-Design?type=design&node-id=1%3A7&mode=design&t=FDPoBROl4DgY9O8c-1
 
-<div style="background: rgba(255,255,255,0.1); padding: 10px;">🤫 Hint: Use Figma dev mode to get specifics on styles and colors</div>
+🤫 _Hint: Use Figma dev mode to get specifics on styles and colors_
 
 ### Data Fetching
 
