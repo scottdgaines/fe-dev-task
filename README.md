@@ -16,7 +16,19 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-##
+## Directions
+
+![alt text](https://github.com/pelago-marketing/fe-dev-task/blob/9d8daf5a6f5ff86f88c69ac3f2712bbaf1d06576/public/img-faq-design.png)
+
+Your goal is to build a website component in Next.js using a combination of JavaScript, HTML, and CSS.
+
+1. Build a
+
+Some baseline styles and colors have been provided as well as an SVG image from the design.
+
+### The Design
+
+The design file can be viewed here: https://www.figma.com/file/qM1evJc5mx2Pw6J6gkNnTk/Dev-Task-Design?type=design&node-id=1%3A7&mode=design&t=FDPoBROl4DgY9O8c-1
 
 ### Data Fetching
 
