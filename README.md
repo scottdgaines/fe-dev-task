@@ -26,6 +26,7 @@ Your goal is to build a website component in Next.js using a combination of Java
 4. Your code should be able to handle additional FAQs added in teh future
 5. The answers should be hidden by default and revealed when the user clicks the question
 6. Show off your CSS skills and include some animations if possible
+7. Create a new branch, with your name as part of the branch name, and push your code to it at the end of the time limit
 
 _Some baseline styles and brand colors have been provided as well as an SVG image from the design._
 
