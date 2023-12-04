@@ -1,6 +1,6 @@
 import Image from "next/image";
 import styles from "./page.module.css";
-import FetchData from "./components/global/FetchData";
+import FetchData from "./components/global/";
 
 export default function Home() {
   return (
