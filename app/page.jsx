@@ -7,7 +7,7 @@ export default function Home() {
     <main className={styles.main}>
       <div>
         <svg width="100%" height="100%" viewBox="0 0 43 46" fill="none" xmlns="http://www.w3.org/2000/svg">
-          <g clip-path="url(#clip0_648_20210)">
+          <g clipPath="url(#clip0_648_20210)">
             <ellipse
               cx="21.5017"
               cy="23.3923"
@@ -19,9 +19,9 @@ export default function Home() {
             <path
               d="M28.5 26.1398L22.4133 19.9858L14.5 27.9858"
               stroke="#fff"
-              stroke-width="2"
-              stroke-linecap="round"
-              stroke-linejoin="round"
+              strokeWidth="2"
+              strokeLinecap="round"
+              strokeLinejoin="round"
             ></path>
           </g>
           <defs>

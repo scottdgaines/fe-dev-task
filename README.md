@@ -23,7 +23,7 @@ Your goal is to build a website component in Next.js using a combination of Java
 1. Build a component consistent with the design (see screenshot and design below)
 2. Retrieve the questions and answers from the `db.json` file located in the `_data` folder using the provided `json-server` package and `FetchData` component.
 3. Add an `id` to each question / answer set and use the `id` to sort the questions in chronological order for display on the page
-4. Your code should be able to handle additional FAQs added in teh future
+4. Your code should be able to handle additional FAQs added in the future
 5. The answers should be hidden by default and revealed when the user clicks the question
 6. Show off your CSS skills and include some animations if possible
 7. Create a new branch, with your name as part of the branch name, and push your code to it at the end of the time limit
