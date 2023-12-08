@@ -1,4 +1,5 @@
-async function getData() {
+export default async function getData() {
   const response = await fetch("http://localhost:4000/faqs");
-  return response.json();
+  const data = response.json();
+  return data
 }

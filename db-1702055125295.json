@@ -1,0 +1,19 @@
+{
+  "faqs": [
+    {
+      "id": 2,
+      "question": "Where do these pricing estimates come from?",
+      "answer": "These estimates are based on our own methodology and have been created in conjunction with Milliman."
+    },
+    {
+      "id": 3,
+      "question": "How is billing done at Pelago? ",
+      "answer": "At Pelago, we do not bill employers until members join the program. Our program has a 100%-fees-at-risk guarantee which means that you are billed only if we meet strict clinical, engagement, satisfaction, and operational performance goals. "
+    },
+    {
+      "id": 1,
+      "question": "Why does the calculator only show estimates?",
+      "answer": "At Pelago, we offer a personalized program tailored to each company's needs, and in order to give exact rates we need to understand what is going on with every individual employer. We encourage you to reach out to our sales team to learn what your exact rates are to include Pelago as a benefits offering."
+    }
+  ]
+}
